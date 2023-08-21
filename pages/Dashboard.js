@@ -43,7 +43,7 @@ export default function Dashboard() {
           <Button onClick={logout}>Log Out</Button>
         </Flex>
         <Text fontSize="4xl" fontFamily={"body"} color={"white"}>
-          "BASE" BALL Dashboard
+          BASE BALL Dashboard
         </Text>
         <BaseBallInfo/>
         <ProfileInfo/>
